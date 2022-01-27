@@ -20,7 +20,7 @@
     "redux-thunk": "latest",
     "socket.io-client": "latest",
     "stats.js": "^0.17.0",
-    "three": "^0.93.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "start": "react-scripts-ts start",
