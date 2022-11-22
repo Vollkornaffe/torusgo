@@ -19,7 +19,7 @@
     "https": "^1.0.0",
     "moment": "^2.20.1",
     "sgf": "0.0.3",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
     "concurrently": "^3.5.0"
